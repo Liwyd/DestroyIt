@@ -1,0 +1,17 @@
+step by step:
+sudo apt-get install wine
+sudo apt-get install wine32
+sudo apt-get install libwine
+
+Then :
+wine DestroyIt.py
+
+
+=========GITHUB===============
+https://github.com/cinzentoo/DestroyIt.git
+=========Instagram============
+cinzentoo_
+
+===================
+if u really need the source DM me in IG 
+,i didn't upload the Code in GitHub to prevent abuse :)
